@@ -15,5 +15,6 @@ This repository is where we are keeping track of things that we didn't think wer
 - [x] arcade machines causing a short circuit
 - [x] water leak in the event building
 - [x] locked out of Heroku and no one knows why
+- [ ] sleep deprived president tried to make coffee and ended up shocking himself
 - [ ] someone fell down a pit
 - [ ] polar bear attack
