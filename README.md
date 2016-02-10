@@ -9,13 +9,15 @@ This repository is where we are keeping track of things that we didn't think wer
 - [x] facility outage because of extra-holiday that was approved the day before the event
 - [x] mentor/coach shortage
 - [x] university internet outage
-- [ ] coffee/beer outage
+- [x] coffee/beer outage
 - [x] facility access mix up leading to us getting blocked from entering the building in front of participants
-- [ ] raining all week *(current streak: 4 days out of 7 possible)*
+- [ ] raining all week *(current streak: 5 days out of 7 possible)*
 - [x] arcade machines causing a short circuit
 - [x] water leak in the event building
 - [x] locked out of Heroku and no one knows why
 - [x] sleep deprived president tries to make coffee and ends up shocking himself
 - [x] car battery broke down
+- [x] minor car accident
+- [x] shipping company said they would definitely deliver on tuesday. Turns out they forgot they didn't work tuesday since it's Mardi Gras.
 - [ ] someone fell down a pit
 - [ ] polar bear attack
