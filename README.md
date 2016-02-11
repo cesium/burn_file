@@ -18,6 +18,7 @@ This repository is where we are keeping track of things that we didn't think wer
 - [x] sleep deprived president tries to make coffee and ends up shocking himself
 - [x] car battery broke down
 - [x] minor car accident
-- [x] shipping company said they would definitely deliver on tuesday. Turns out they forgot they didn't work tuesday since it's Mardi Gras.
+- [x] shipping company said they would definitely deliver a package on tuesday. Turns out they forgot they didn't work tuesday since it's Mardi Gras. We were informed about this on Wednesday.
+- [x] `rm *` on the wrong folder caused us to lose the source code of an app for a challenge.
 - [ ] someone fell down a pit
 - [ ] polar bear attack
